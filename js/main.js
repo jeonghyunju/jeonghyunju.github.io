@@ -821,12 +821,12 @@
 
 	var initNaverMap = function() {
 		var HOME_PATH = window.HOME_PATH || '.';
-		var position = new naver.maps.LatLng(37.559473, 127.041575);
+		var position = new naver.maps.LatLng(37.5046955,127.0406899);
 		var mapOptions = {
 			center: position,
-			zoom: 12,
-			minZoom: 7,
-			maxZoom: 14
+			zoom: 14,
+			minZoom: 6,
+			maxZoom: 20
 		};
 
 		var map = new naver.maps.Map('map', mapOptions);
