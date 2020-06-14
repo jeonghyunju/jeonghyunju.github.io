@@ -260,57 +260,62 @@
 		var gallery0 = {
 			"#wedding-gallery": [
 				{
-					src: 'images/wedding/wedding_0.jpg',
+					src: 'images/landing/gallery/1-wedding/1.jpg',
 					w: 1280,
 					h: 853
 				},
 				{
-					src: 'images/wedding/wedding_1.jpg',
+					src: 'images/landing/gallery/1-wedding/2.jpg',
 					w: 1280,
 					h: 853
 				},
 				{
-					src: 'images/wedding/wedding_2.jpg',
+					src: 'images/landing/gallery/1-wedding/3.jpg',
 					w: 1280,
 					h: 853
 				},
 				{
-					src: 'images/wedding/wedding_3.jpg',
+					src: 'images/landing/gallery/1-wedding/4.jpg',
 					w: 853,
 					h: 1280
 				},
 				{
-					src: 'images/wedding/wedding_4.jpg',
+					src: 'images/landing/gallery/1-wedding/5.jpg',
 					w: 1280,
 					h: 853
 				},
 				{
-					src: 'images/wedding/wedding_6.jpg',
+					src: 'images/landing/gallery/1-wedding/6.jpg',
 					w: 2000,
 					h: 1334
 				},
 				{
-					src: 'images/wedding/wedding_7.jpg',
+					src: 'images/landing/gallery/1-wedding/7.jpg',
 					w: 2000,
 					h: 1334
 				},
 				{
-					src: 'images/wedding/wedding_8.jpg',
+					src: 'images/landing/gallery/1-wedding/8.jpg',
 					w: 2000,
 					h: 1334
 				},
 				{
-					src: 'images/wedding/wedding_9.jpg',
+					src: 'images/landing/gallery/1-wedding/9.jpg',
 					w: 2000,
 					h: 1334
 				},
 				{
-					src: 'images/wedding/wedding_10.jpg',
+					src: 'images/landing/gallery/1-wedding/10.jpeg',
 					w: 2000,
 					h: 1334
 				},
 				{
-					src: 'images/wedding/wedding_5.jpg',
+					src: 'images/landing/gallery/1-wedding/11.jpeg',
+					w: 1280,
+					h: 853
+				},
+				{
+					src: 'images/landing/gallery/1-wedding/12.jpeg',
 					w: 1280,
 					h: 853
 				}
@@ -320,79 +325,64 @@
 		var gallery1 = {
 			"#laos-gallery": [
 				{
-					src: 'images/laos/laos_2.jpg',
+					src: 'images/landing/gallery/2-hk/1.jpeg',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/laos/laos_3.jpg',
+					src: 'images/landing/gallery/2-hk/2.jpeg',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/laos/laos_4.jpg',
+					src: 'images/landing/gallery/2-hk/3.jpeg',
 					w: 1478,
 					h: 1108
 				},
 				{
-					src: 'images/laos/laos_5.jpg',
+					src: 'images/landing/gallery/2-hk/4.jpeg',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/laos/laos_6.jpg',
+					src: 'images/landing/gallery/2-hk/5.jpeg',
 					w: 1478,
 					h: 1108
 				},
 				{
-					src: 'images/laos/laos_7.jpg',
+					src: 'images/landing/gallery/2-hk/6.jpeg',
 					w: 1478,
 					h: 1108
 				},
 				{
-					src: 'images/laos/laos_8.jpg',
+					src: 'images/landing/gallery/2-hk/7.jpeg',
 					w: 1478,
 					h: 1108
 				},
 				{
-					src: 'images/laos/laos_9.jpg',
+					src: 'images/landing/gallery/2-hk/8.jpeg',
 					w: 1478,
 					h: 1108
 				},
 				{
-					src: 'images/laos/laos_10.jpg',
+					src: 'images/landing/gallery/2-hk/9.jpeg',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/laos/laos_11.jpg',
+					src: 'images/landing/gallery/2-hk/10.jpeg',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/laos/laos_12.jpg',
+					src: 'images/landing/gallery/2-hk/11.jpeg',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/laos/laos_13.jpg',
+					src: 'images/landing/gallery/2-hk/12.jpeg',
 					w: 1108,
 					h: 1478
-				},
-				{
-					src: 'images/laos/laos_14.jpg',
-					w: 1108,
-					h: 1478
-				},
-				{
-					src: 'images/laos/laos_15.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/laos/laos_16.jpg',
-					w: 1478,
-					h: 1108
 				}
 			]
 		};
@@ -400,154 +390,59 @@
 		var gallery2 = {
 			"#fin-gallery": [
 				{
-					src: 'images/fin/fin-1.jpg',
+					src: 'images/landing/gallery/3-am/1.jpeg',
 					w: 1478,
 					h: 1108
 				},
 				{
-					src: 'images/fin/fin-2.jpg',
+					src: 'images/landing/gallery/3-am/2.jpeg',
 					w: 2048,
 					h: 2019
 				},
 				{
-					src: 'images/fin/fin-3.jpg',
+					src: 'images/landing/gallery/3-am/3.jpeg',
 					w: 2364,
 					h: 1773
 				},
 				{
-					src: 'images/fin/fin-4.jpg',
+					src: 'images/landing/gallery/3-am/4.jpeg',
 					w: 2048,
 					h: 1994
 				},
 				{
-					src: 'images/fin/fin-5.jpg',
+					src: 'images/landing/gallery/3-am/5.jpeg',
 					w: 1108,
 					h: 1109
 				},
 				{
-					src: 'images/fin/fin-6.jpg',
+					src: 'images/landing/gallery/3-am/6.jpeg',
 					w: 1477,
 					h: 1108
 				},
 				{
-					src: 'images/fin/fin-7.jpg',
+					src: 'images/landing/gallery/3-am/7.jpeg',
 					w: 1773,
 					h: 2364
 				},
 				{
-					src: 'images/fin/fin-8.jpg',
+					src: 'images/landing/gallery/3-am/8.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/fin/fin-9.jpg',
+					src: 'images/landing/gallery/3-am/9.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/fin/fin-10.jpg',
+					src: 'images/landing/gallery/3-am/10.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/fin/fin-11.jpg',
+					src: 'images/landing/gallery/3-am/11.jpeg',
 					w: 1108,
 					h: 1402
-				},
-				{
-					src: 'images/fin/fin-12.jpg',
-					w: 1773,
-					h: 2259
-				},
-				{
-					src: 'images/fin/fin-13.jpg',
-					w: 1773,
-					h: 1773
-				},
-				{
-					src: 'images/fin/fin-14.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/fin/fin-15.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/fin/fin-16.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/fin/fin-17.jpg',
-					w: 1974,
-					h: 2048
-				},
-				{
-					src: 'images/fin/fin-18.jpg',
-					w: 1936,
-					h: 1936
-				},
-				{
-					src: 'images/fin/fin-19.jpg',
-					w: 2048,
-					h: 2048
-				},
-				{
-					src: 'images/fin/fin-20.jpg',
-					w: 1108,
-					h: 1108
-				},
-				{
-					src: 'images/fin/fin-21.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/fin/fin-22.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/fin/fin-23.jpg',
-					w: 2364,
-					h: 1773
-				},
-				{
-					src: 'images/fin/fin-24.jpg',
-					w: 1108,
-					h: 1108
-				},
-				{
-					src: 'images/fin/fin-25.jpg',
-					w: 1773,
-					h: 2364
-				},
-				{
-					src: 'images/fin/fin-26.jpg',
-					w: 2048,
-					h: 2048
-				},
-				{
-					src: 'images/fin/fin-27.jpg',
-					w: 2048,
-					h: 2048
-				},
-				{
-					src: 'images/fin/fin-28.jpg',
-					w: 2364,
-					h: 1773
-				},
-				{
-					src: 'images/fin/fin-29.jpg',
-					w: 2048,
-					h: 2048
-				},
-				{
-					src: 'images/fin/fin-30.jpg',
-					w: 1280,
-					h: 1280
 				}
 			]
 		};
@@ -555,84 +450,59 @@
 		var gallery3 = {
 			"#vv-gallery": [
 				{
-					src: 'images/vv/vv_1.jpg',
+					src: 'images/landing/gallery/4-jeju/1.jpeg',
 					w: 1536,
 					h: 1536
 				},
 				{
-					src: 'images/vv/vv_2.jpg',
+					src: 'images/landing/gallery/4-jeju/2.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/vv/vv_3.jpg',
+					src: 'images/landing/gallery/4-jeju/3.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/vv/vv_4.jpg',
+					src: 'images/landing/gallery/4-jeju/4.jpeg',
 					w: 1536,
 					h: 1536
 				},
 				{
-					src: 'images/vv/vv_5.jpg',
+					src: 'images/landing/gallery/4-jeju/5.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/vv/vv_6.jpg',
+					src: 'images/landing/gallery/4-jeju/6.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/vv/vv_7.jpg',
+					src: 'images/landing/gallery/4-jeju/7.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/vv/vv_8.jpg',
+					src: 'images/landing/gallery/4-jeju/8.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/vv/vv_9.jpg',
+					src: 'images/landing/gallery/4-jeju/9.jpeg',
 					w: 2048,
 					h: 2048
 				},
 				{
-					src: 'images/vv/vv_10.jpg',
+					src: 'images/landing/gallery/4-jeju/10.jpeg',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/vv/vv_11.jpg',
+					src: 'images/landing/gallery/4-jeju/11.jpeg',
 					w: 1478,
 					h: 1108
-				},
-				{
-					src: 'images/vv/vv_12.jpg',
-					w: 1108,
-					h: 1478
-				},
-				{
-					src: 'images/vv/vv_13.jpg',
-					w: 1109,
-					h: 1478
-				},
-				{
-					src: 'images/vv/vv_14.jpg',
-					w: 1536,
-					h: 1536
-				},
-				{
-					src: 'images/vv/vv_15.jpg',
-					w: 2048,
-					h: 2048
-				},
-				{
-					src: 'images/vv/vv_16.jpg',
-					w: 2048,
-					h: 1969
 				}
 			]
 		};
@@ -640,69 +510,39 @@
 		var gallery4 = {
 			"#tw-gallery": [
 				{
-					src: 'images/tw/tw_1.jpg',
+					src: 'images/landing/gallery/5-date/1.jpeg',
 					w: 1528,
 					h: 994
 				},
 				{
-					src: 'images/tw/tw_2.jpg',
+					src: 'images/landing/gallery/5-date/2.jpeg',
 					w: 1478,
 					h: 1012
 				},
 				{
-					src: 'images/tw/tw_3.jpg',
+					src: 'images/landing/gallery/5-date/3.jpeg',
 					w: 1478,
 					h: 1108
 				},
 				{
-					src: 'images/tw/tw_4.jpg',
+					src: 'images/landing/gallery/5-date/4.jpeg',
 					w: 1280,
 					h: 1280
 				},
 				{
-					src: 'images/tw/tw_5.jpg',
+					src: 'images/landing/gallery/5-date/5.jpeg',
 					w: 1280,
 					h: 960
 				},
 				{
-					src: 'images/tw/tw_6.jpg',
+					src: 'images/landing/gallery/5-date/6.jpeg',
 					w: 1280,
 					h: 1280
 				},
 				{
-					src: 'images/tw/tw_7.jpg',
+					src: 'images/landing/gallery/5-date/7.jpeg',
 					w: 1108,
 					h: 1478
-				},
-				{
-					src: 'images/tw/tw_8.jpg',
-					w: 960,
-					h: 1280
-				},
-				{
-					src: 'images/tw/tw_9.jpg',
-					w: 1110,
-					h: 1476
-				},
-				{
-					src: 'images/tw/tw_10.jpg',
-					w: 1280,
-					h: 960
-				},
-				{
-					src: 'images/tw/tw_11.jpg',
-					w: 1280,
-					h: 1280
-				},
-				{
-					src: 'images/tw/tw_12.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/tw/tw_13.jpg',
-					w: 1280,
-					h: 960
 				}
 			]
 		};
@@ -710,74 +550,34 @@
 		var gallery5 = {
 			"#hk-gallery": [
 				{
-					src: 'images/hk/hk_1.jpg',
+					src: 'images/landing/gallery/6-baby/1.jpeg',
 					w: 960,
 					h: 1117
 				},
 				{
-					src: 'images/hk/hk_2.jpg',
+					src: 'images/landing/gallery/6-baby/2.JPG',
 					w: 1108,
 					h: 1478
 				},
 				{
-					src: 'images/hk/hk_3.jpg',
+					src: 'images/landing/gallery/6-baby/3.JPG',
 					w: 1280,
 					h: 1280
 				},
 				{
-					src: 'images/hk/hk_3-1.jpg',
+					src: 'images/landing/gallery/6-baby/4.JPG',
 					w: 1053,
 					h: 960
 				},
 				{
-					src: 'images/hk/hk_4.jpg',
+					src: 'images/landing/gallery/6-baby/5.JPG',
 					w: 960,
 					h: 1185
 				},
 				{
-					src: 'images/hk/hk_5.jpg',
+					src: 'images/landing/gallery/6-baby/6.JPG',
 					w: 960,
 					h: 1280
-				},
-				{
-					src: 'images/hk/hk_6.jpg',
-					w: 960,
-					h: 1280
-				},
-				{
-					src: 'images/hk/hk_7.jpg',
-					w: 1280,
-					h: 960
-				},
-				{
-					src: 'images/hk/hk_8.jpg',
-					w: 960,
-					h: 1200
-				},
-				{
-					src: 'images/hk/hk_9.jpg',
-					w: 1280,
-					h: 1280
-				},
-				{
-					src: 'images/hk/hk_10.jpg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/hk/hk_11.jpg',
-					w: 1280,
-					h: 1280
-				},
-				{
-					src: 'images/hk/hk_12.jpg',
-					w: 1108,
-					h: 1478
-				},
-				{
-					src: 'images/hk/hk_13.jpg',
-					w: 1500,
-					h: 1500
 				}
 			]
 		};
