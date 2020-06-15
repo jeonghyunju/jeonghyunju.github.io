@@ -326,63 +326,63 @@
 			"#laos-gallery": [
 				{
 					src: 'images/landing/gallery/2-hk/1.jpeg',
-					w: 1108,
-					h: 1478
+					w: 1024,
+					h: 769
 				},
 				{
 					src: 'images/landing/gallery/2-hk/2.jpeg',
-					w: 1108,
-					h: 1478
+					w: 960,
+					h: 722
 				},
 				{
 					src: 'images/landing/gallery/2-hk/3.jpeg',
-					w: 1478,
-					h: 1108
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/2-hk/4.jpeg',
-					w: 1108,
-					h: 1478
+					w: 720,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/2-hk/5.jpeg',
-					w: 1478,
-					h: 1108
+					w: 768,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/2-hk/6.jpeg',
-					w: 1478,
-					h: 1108
+					w: 768,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/2-hk/7.jpeg',
-					w: 1478,
-					h: 1108
+					w: 768,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/2-hk/8.jpeg',
-					w: 1478,
-					h: 1108
+					w: 721,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/2-hk/9.jpeg',
-					w: 1108,
-					h: 1478
+					w: 1024,
+					h: 768
 				},
 				{
 					src: 'images/landing/gallery/2-hk/10.jpeg',
-					w: 1108,
-					h: 1478
+					w: 960,
+					h: 721
 				},
 				{
 					src: 'images/landing/gallery/2-hk/11.jpeg',
-					w: 1108,
-					h: 1478
+					w: 960,
+					h: 721
 				},
 				{
 					src: 'images/landing/gallery/2-hk/12.jpeg',
-					w: 1108,
-					h: 1478
+					w: 719,
+					h: 960
 				}
 			]
 		};
