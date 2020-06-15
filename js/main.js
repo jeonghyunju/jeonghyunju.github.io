@@ -261,63 +261,63 @@
 			"#wedding-gallery": [
 				{
 					src: 'images/landing/gallery/1-wedding/1.jpg',
-					w: 1280,
-					h: 853
+					w: 1573,
+					h: 1179
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/2.jpg',
-					w: 1280,
-					h: 853
+					w: 1573,
+					h: 1179
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/3.jpg',
-					w: 1280,
-					h: 853
+					w: 1455,
+					h: 1179
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/4.jpg',
-					w: 853,
-					h: 1280
+					w: 1112,
+					h: 754
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/5.jpg',
-					w: 1280,
-					h: 853
+					w: 1584,
+					h: 1188
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/6.jpg',
-					w: 2000,
-					h: 1334
+					w: 1190,
+					h: 893
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/7.jpg',
-					w: 2000,
-					h: 1334
+					w: 1037,
+					h: 778
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/8.jpg',
-					w: 2000,
-					h: 1334
+					w: 681,
+					h: 875
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/9.jpg',
-					w: 2000,
-					h: 1334
+					w: 1206,
+					h: 796
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/10.jpeg',
-					w: 2000,
-					h: 1334
+					w: 1086,
+					h: 724
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/11.jpeg',
-					w: 1280,
-					h: 853
+					w: 720,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/1-wedding/12.jpeg',
-					w: 1280,
-					h: 853
+					w: 960,
+					h: 721
 				}
 			]
 		};
