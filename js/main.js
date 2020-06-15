@@ -451,58 +451,58 @@
 			"#vv-gallery": [
 				{
 					src: 'images/landing/gallery/4-jeju/1.jpeg',
-					w: 1536,
-					h: 1536
+					w: 960,
+					h: 721
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/2.jpeg',
-					w: 2048,
-					h: 2048
+					w: 768,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/3.jpeg',
-					w: 2048,
-					h: 2048
+					w: 762,
+					h: 1032
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/4.jpeg',
-					w: 1536,
-					h: 1536
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/5.jpeg',
-					w: 2048,
-					h: 2048
+					w: 768,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/6.jpeg',
-					w: 2048,
-					h: 2048
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/7.jpeg',
-					w: 2048,
-					h: 2048
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/8.jpeg',
-					w: 2048,
-					h: 2048
+					w: 960,
+					h: 721
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/9.jpeg',
-					w: 2048,
-					h: 2048
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/10.jpeg',
-					w: 1108,
-					h: 1478
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/4-jeju/11.jpeg',
-					w: 1478,
-					h: 1108
+					w: 960,
+					h: 721
 				}
 			]
 		};
