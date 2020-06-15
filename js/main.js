@@ -511,38 +511,38 @@
 			"#tw-gallery": [
 				{
 					src: 'images/landing/gallery/5-date/1.jpeg',
-					w: 1528,
-					h: 994
+					w: 768,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/5-date/2.jpeg',
-					w: 1478,
-					h: 1012
-				},
-				{
-					src: 'images/landing/gallery/5-date/3.jpeg',
-					w: 1478,
-					h: 1108
-				},
-				{
-					src: 'images/landing/gallery/5-date/4.jpeg',
-					w: 1280,
-					h: 1280
-				},
-				{
-					src: 'images/landing/gallery/5-date/5.jpeg',
-					w: 1280,
+					w: 720,
 					h: 960
 				},
 				{
+					src: 'images/landing/gallery/5-date/3.jpeg',
+					w: 720,
+					h: 960
+				},
+				{
+					src: 'images/landing/gallery/5-date/4.jpeg',
+					w: 720,
+					h: 960
+				},
+				{
+					src: 'images/landing/gallery/5-date/5.jpeg',
+					w: 960,
+					h: 722
+				},
+				{
 					src: 'images/landing/gallery/5-date/6.jpeg',
-					w: 1280,
-					h: 1280
+					w: 769,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/5-date/7.jpeg',
-					w: 1108,
-					h: 1478
+					w: 720,
+					h: 960
 				}
 			]
 		};
@@ -551,33 +551,33 @@
 			"#hk-gallery": [
 				{
 					src: 'images/landing/gallery/6-baby/1.jpeg',
-					w: 960,
-					h: 1117
-				},
-				{
-					src: 'images/landing/gallery/6-baby/2.JPG',
-					w: 1108,
-					h: 1478
-				},
-				{
-					src: 'images/landing/gallery/6-baby/3.JPG',
-					w: 1280,
-					h: 1280
-				},
-				{
-					src: 'images/landing/gallery/6-baby/4.JPG',
-					w: 1053,
+					w: 720,
 					h: 960
 				},
 				{
-					src: 'images/landing/gallery/6-baby/5.JPG',
+					src: 'images/landing/gallery/6-baby/2.jpg',
 					w: 960,
-					h: 1185
+					h: 1440
 				},
 				{
-					src: 'images/landing/gallery/6-baby/6.JPG',
+					src: 'images/landing/gallery/6-baby/3.jpg',
+					w: 1440,
+					h: 960
+				},
+				{
+					src: 'images/landing/gallery/6-baby/4.jpg',
 					w: 960,
-					h: 1280
+					h: 1440
+				},
+				{
+					src: 'images/landing/gallery/6-baby/5.jpg',
+					w: 998,
+					h: 1498
+				},
+				{
+					src: 'images/landing/gallery/6-baby/6.jpg',
+					w: 768,
+					h: 1152
 				}
 			]
 		};
