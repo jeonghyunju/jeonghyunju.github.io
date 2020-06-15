@@ -733,7 +733,7 @@
 		// burgerMenu();
 		contentWayPoint();
 		dropdown();
-		shuffleSpecialThanks();
+		// shuffleSpecialThanks();
 		testimonialCarousel();
 		goToTop();
 		goToMap();
