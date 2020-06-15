@@ -391,58 +391,58 @@
 			"#fin-gallery": [
 				{
 					src: 'images/landing/gallery/3-am/1.jpeg',
-					w: 1478,
-					h: 1108
+					w: 960,
+					h: 721
 				},
 				{
 					src: 'images/landing/gallery/3-am/2.jpeg',
-					w: 2048,
-					h: 2019
+					w: 1024,
+					h: 768
 				},
 				{
 					src: 'images/landing/gallery/3-am/3.jpeg',
-					w: 2364,
-					h: 1773
+					w: 720,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/3-am/4.jpeg',
-					w: 2048,
-					h: 1994
+					w: 960,
+					h: 721
 				},
 				{
 					src: 'images/landing/gallery/3-am/5.jpeg',
-					w: 1108,
-					h: 1109
+					w: 768,
+					h: 1024
 				},
 				{
 					src: 'images/landing/gallery/3-am/6.jpeg',
-					w: 1477,
-					h: 1108
+					w: 1024,
+					h: 768
 				},
 				{
 					src: 'images/landing/gallery/3-am/7.jpeg',
-					w: 1773,
-					h: 2364
+					w: 1024,
+					h: 768
 				},
 				{
 					src: 'images/landing/gallery/3-am/8.jpeg',
-					w: 2048,
-					h: 2048
+					w: 720,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/3-am/9.jpeg',
-					w: 2048,
-					h: 2048
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/3-am/10.jpeg',
-					w: 2048,
-					h: 2048
+					w: 719,
+					h: 960
 				},
 				{
 					src: 'images/landing/gallery/3-am/11.jpeg',
-					w: 1108,
-					h: 1402
+					w: 719,
+					h: 960
 				}
 			]
 		};
