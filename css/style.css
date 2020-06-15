@@ -1277,12 +1277,12 @@ form label {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
 }
 #fh5co-special-thanks .wrap-special-thanks .special-thanks-slide figure img {
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
